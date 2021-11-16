@@ -29,6 +29,8 @@ Bachelor of Science, Computer Science
 
 **Operation System** : Windows, Unix
 
+## Book Shelf
+![Continuous-Delivery](https://images-na.ssl-images-amazon.com/images/I/41dMTNL9Q+L._SX377_BO1,204,203,200_.jpg)
 
 ## Working Experience
 
