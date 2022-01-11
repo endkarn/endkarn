@@ -14,7 +14,9 @@ karnawat.w@gmail.com 📧
 ***Free Agent !!***
 
 I am looking for software quality assurance or software engineer job and prefer for remote job.
-As quality assurance in team I take responsibility about quality of software and make sure it meet criteria before release. Working closely with development team to facilicate the working process by using test driven development for much clearly requirements before start writing code and reduce risk to get bug by practice in continuous integration. The test cases or test scenarios can be provided in early of development.
+As quality assurance in team I take responsibility about quality of software and make sure it meet criteria before release. Working closely with development team to facilicate the working process by using test driven development for much clearly requirements before start writing code and reduce risk to get bug by practice in continuous integration. The test cases or test scenarios can be provided in early of development. I am experienced in Waterfall and Agile software development.
+
+Software Engineer + Test Engineer 
 
 
 ## Education
