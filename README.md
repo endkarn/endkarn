@@ -25,7 +25,7 @@ Bachelor of Science, Computer Science
 *(Khon Kean, Thailand)* 
 
 ## Technical Skill
-**Development** : Java, Golang, Python, SQL, Docker, Git, Kibana, Jenkins, Continuous Integration, Continuous Deployment, Test Driven Development
+**Development** : Java, Sprint Boot, Golang, Python, SQL, Docker, Git, Kibana, Jenkins, Continuous Integration, Continuous Deployment, Test Driven Development
 
 **Testing** : Postman, Robotframework, Automation Test, Test Double, Unit Test, Integration Test, User  Acceptance  Testing, Test Double, Test Scenario, Microservice Testing
 
@@ -36,6 +36,14 @@ Bachelor of Science, Computer Science
 
 ## Working Experience
 
+Outsource Software Tester (Oct 2021-Mar 2022)
+: *(Remote working , Thailand)*
+
+- Develop test plans, scenarios, scripts, and procedures for the customer system
+- Collaborate with Business Analysis, Developer and Internal Quality Assurance determine project scope and requirements
+- Perform test and record defect details, creating and distributing reports outlining the types of defects found and the steps taken to resolve the issues
+
+---
 Software Engineer (May 2019–Dec 2020)
 : [SCK SEAL Team](https://www.facebook.com/scksealteam) at Siam Chamnankit Co., Ltd. *(Bangkok , Thailand)*
 
@@ -51,6 +59,16 @@ Software Engineer (May 2019–Dec 2020)
 	- Monitoring platform of systems with ELK stack support part of performance testing to identify service failure.
 	- Created automation test suits for the system and facilitate working process to Test Driven Development.
 	- Internal financial services with Golang and MongoDB.
+	- Analysts, design, and implement Automation Regression Test Suite for make microservices can be self test in any developer’s machines
+	- Analysts, design, and implement API Test, Integration Test and Contract Test for mobile banking microservices
+
+
+	### Training Experience
+	- Assist teach and share experience in Agile Software Development Workshop class
+	- Assist teach and share experience in Continuous Integration and Continuous Delivery with Jenkins class
+	- Assist teach and share experience in Software Testing Workshop at Khon Kaen University
+	- Assist teach and observe in Elasticsearch (ELK Stack) workshop
+
 
 ---
 Backend Developer (Jul 2018–Mar 2019)
