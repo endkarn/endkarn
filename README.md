@@ -9,7 +9,7 @@ karnawat.w@gmail.com 📧
 (+66) 87654-1091 📱
 
 
-[Linkedin Profile](www.linkedin.com/in/karnawat-w) | [Medium Blog](https://medium.com/@endkarn)
+[Linkedin Profile](https://www.linkedin.com/in/karnawat-w) | [Medium Blog](https://medium.com/@endkarn)
 
 ***Free Agent !!***
 
