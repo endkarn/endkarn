@@ -13,8 +13,8 @@ karnawat.w@gmail.com 📧
 
 ***Free Agent !!***
 
-I am looking for software quality assurance or software engineer job and prefer for remote job.
-As quality assurance in team I take responsibility about quality of software and make sure it meet criteria before release. Working closely with development team to facilicate the working process by using test driven development for much clearly requirements before start writing code and reduce risk to get bug by practice in continuous integration. The test cases or test scenarios can be provided in early of development. I am experienced in Waterfall and Agile software development.
+I am looking for a software quality assurance or software engineer job and prefer a remote job.
+As quality assurance in a team I take responsibility for the quality of software and make sure it meets criteria before release. Working closely with the development team to facilitate the working process by using test driven development for clear requirements before starting writing code and reducing risk to get bugs by practice in continuous integration. The test cases or test scenarios can be provided early in development. I am experienced in Waterfall and Agile software development.
 
 Software Engineer + Test Engineer 
 
@@ -50,14 +50,14 @@ Software Engineer (May 2019–Dec 2020)
 - Develop and deliver tested software with Iterative and Incremental Development , Agile Software Development with Extreme Programming (XP), Scrum Framework, Lean Software Development, Plan Do Check Act, and relevance practices. 
 - Find business conditions, create test scenarios, and define test data by Acceptance Test Driven Development (ATDD). 
 - Design high-level specification and detail specification by Test First Development. Design automation build, automation regression test suite and automation deployment and development script for automation build, regression test and deployment. 
-- Analysis, design and define work (tasks and activities) break down to implement and deliver in iteration.  Create iteration plan milestones with date to deliver each feature or story to perform acceptance test. 
+- Analysis, design and define work (tasks and activities) break down to implement and deliver in iteration.  Create iteration plan milestones with date to deliver each feature or story to perform acceptance tests. 
 - Monitor and manage daily work progress. Define issue, estimate impact and define how to resolve or mitigate impact of the issue. 
-- Escalate the issue to relate person(s) who can help to resolve or mitigate impact of the issues.
+- Escalate the issue to relate to the person(s) who can help to resolve or mitigate impact of the issues.
 - Analyze & Improve Deployment process and reduce time in process from manual to automation. 
 
 	### Related Project
 	- Monitoring platform of systems with ELK stack support part of performance testing to identify service failure.
-	- Created automation test suits for the system and facilitate working process to Test Driven Development.
+	- Created automation test suites for the system and facilitated the working process to Test Driven Development.
 	- Internal financial services with Golang and MongoDB.
 	- Analysts, design, and implement Automation Regression Test Suite for make microservices can be self test in any developer’s machines
 	- Analysts, design, and implement API Test, Integration Test and Contract Test for mobile banking microservices
@@ -75,7 +75,7 @@ Backend Developer (Jul 2018–Mar 2019)
 :  Handy Wings *(Nonthaburi, Thailand)*
 
 - Design and develop web service enterprise resource planning (ERP) and customer relationship management (CRM) for small and medium enterprise.
-- Migrate data from document to formated service data.
+- Migrate data from document to formatted  service data.
 
 	### Related Project
 	- ERP and CRM service with Java (Spring Boot Framework) and MariaDB
